@@ -12,6 +12,7 @@ export class AppComponent {
 			title: 'Equilibrium #3429',
 			description:
 				'Our Equilibrium collection promotes balance and calm.',
+			imageSrc: '/assets/images/equilibrium.jpg',
 			ethereumAmount: 0.041,
 			remainingTime: 3,
 			author: {
