@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	project = {
-		name: 'NFT',
+		name: 'NFT preview card component',
 		card: {
 			title: 'Equilibrium #3429',
 			description:
